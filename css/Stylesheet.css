@@ -1,0 +1,26 @@
+#epochForm{
+	margin:5% 10% 0 10%;
+}
+
+#inputDiv{ 
+	width:100%;
+}
+
+#epochInput{
+	width:80%;
+}
+
+#epochButton{
+	width:20%;
+	background-color:#888888;
+	padding:0.5em 1em;
+}
+
+#epochButton:hover{
+	background-color:#AAAAAA;
+}
+
+#epochOutput{
+	margin: 5% 10%;
+	width: 100%'
+}
